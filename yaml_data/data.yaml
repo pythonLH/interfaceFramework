@@ -1,0 +1,15 @@
+doRegister:
+  phone: '9232063748'
+  shortNo: '9999'
+  password: ''
+  flag: '1'
+  countryCode: '52'
+  promotionChannels: googlePlay
+
+
+
+mobile_belong: { shouji: 13456755448, appkey: 0c818521d38759e1 }
+
+json_data: { title: foo,body: bar,userId: 1 }
+
+
