@@ -3,7 +3,7 @@ import os
 import yaml
 
 # data_path = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))), "data", "data.yaml")
-from ospath import yam_path, ini_path, switch_ini,middleground
+from path_ import yam_path, ini_path, switch_ini,middleground
 
 
 class IniRead:
