@@ -3,7 +3,7 @@ import os
 import yaml
 
 # data_path = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))), "data", "data.yaml")
-from ospath import yam_path, ini_path, switch_ini
+from ospath import yam_path, ini_path, switch_ini,middleground
 
 
 class IniRead:
@@ -72,9 +72,10 @@ class YamlRed:
         return yaml.dump(_data, self.file_)
 
 
-red_data = YamlRed(yam_path).yaml_data()
+red_data = YamlRed(middleground).yaml_data()
 test_host = IniRead(ini_path).red_get("host", "api_sit_url")
-yufa_host = IniRead(ini_path).red_get('host', 'api_sitpost_url')
+yufa_host = IniRead(ini_path).red_get('credit_host', 'api_mex_test')
+middleground_conf = IniRead(ini_path).red_get('middleground_host', 'api_middleground_test')
 # release_host = IniRead(ini_path).red_get('host', 'api_mex_release')
 if __name__ == '__main__':
-    print(red_data)
+    print(middleground_conf)

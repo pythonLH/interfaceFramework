@@ -1,0 +1,75 @@
+# 入库管理列表参数
+loan_case_list:
+  intoCaseBeginTime: '2023-03-14 00:00:00'
+  intoCaseEndTime: '2023-04-13 23:59:59'
+  page: 1
+  pageSize: 10
+  country: ''
+# 案件库管理列表
+case_allocated_list:
+  page: 1
+  pageSize: 10
+  country: ''
+  caseState: ''
+  followStartTime: ''
+  followEndTime: ''
+  intoCaseStartTime: ''
+  intoCaseEndTime: ''
+  allocateStartTime: ''
+  allocateEndTime: ''
+  nextFollowStartTime: ''
+  nextFollowEndTime: ''
+# 拨打根据记录列表
+case_talk_list:
+  page: 1
+  pageSize: 10
+  mobile: '639565118500'
+  appFrom: null
+# 历史借贷合同
+loan_history_list:
+  mobile: '639565118500'
+# 我的案件列表
+_case_allocated_list:
+  assigneeId: 199
+  page: 1
+  pageSize: 10
+  country: ''
+  caseState: ''
+# 结案管理列表
+loan_case_finish_list:
+  finishStartTime: '2023-03-08 00:00:00'
+  finishEndTime: '2023-04-07 23:59:59'
+  page: 1
+  pageSize: 10
+# 电销人员管理列表
+assignee_list:
+  page: 1
+  pageSize: 10
+# 电销组管理列表
+assignee_group_list:
+  page: 1
+  pageSize: 10
+# 电销人员统计列表
+assignee_statistics_list:
+  page: 1
+  pageSize: 10
+  creditTimeStart: '2023-03-08 00:00:00'
+  creditTimeEnd: '2023-04-07 23:59:59'
+  typeList: null
+  assigneeGroupId: null
+# 入库策略列表
+storage_strategy_list:
+  page: 1
+  pageSize: 10
+# 字典表维护列表
+dictionary_list:
+  page: 1
+  pageSize: 10
+# 推荐产品配置列表
+recommend_product_page:
+  page: 1
+  pageSize: 10
+# 圈人配置列表
+mark_people_list:
+  page: 1
+  pageSize: 10

@@ -1,0 +1,3046 @@
+[2023-04-13 11:31:34,003] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:34,072] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:34,074] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:34,076] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:34,077] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:34,078] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:31:34,078] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:34,079] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 11:31:36,429] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:36,429] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:36,430] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:31:36,430] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:36,430] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": "",
+  "followStartTime": "",
+  "followEndTime": "",
+  "intoCaseStartTime": "",
+  "intoCaseEndTime": "",
+  "allocateStartTime": "",
+  "allocateEndTime": "",
+  "nextFollowStartTime": "",
+  "nextFollowEndTime": ""
+}
+[2023-04-13 11:31:38,770] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:38,771] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:38,772] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:31:38,772] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:38,773] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "mobile": "639565118500",
+  "appFrom": null
+}
+[2023-04-13 11:31:41,118] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:41,120] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:41,120] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 11:31:41,121] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:41,121] - log.py] - DEBUG: 接口请求的参数: {
+  "mobile": "639565118500"
+}
+[2023-04-13 11:31:41,348] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:41,349] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:41,349] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:31:41,350] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:41,350] - log.py] - DEBUG: 接口请求的参数: {
+  "assigneeId": 199,
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": ""
+}
+[2023-04-13 11:31:43,694] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:43,696] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:43,696] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:31:43,697] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:43,697] - log.py] - DEBUG: 接口请求的参数: {
+  "finishStartTime": "2023-03-08 00:00:00",
+  "finishEndTime": "2023-04-07 23:59:59",
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 11:31:46,031] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:46,032] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:46,032] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:31:46,033] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:46,033] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 11:31:48,363] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:48,364] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:48,365] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:31:48,365] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:48,366] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 11:31:50,725] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:50,726] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:50,727] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:31:50,727] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:50,728] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "creditTimeStart": "2023-03-08 00:00:00",
+  "creditTimeEnd": "2023-04-07 23:59:59",
+  "typeList": null,
+  "assigneeGroupId": null
+}
+[2023-04-13 11:31:53,066] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:53,066] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:53,067] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:31:53,067] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:53,068] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 11:31:55,416] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:55,417] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:55,417] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:31:55,418] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:55,418] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 11:31:57,760] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:31:57,761] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:31:57,762] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:31:57,762] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 11:31:57,763] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 11:32:00,106] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:32:00,107] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 11:32:00,107] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:32:00,108] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 11:32:00,108] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 11:32:02,443] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 11:42:30,891] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:42:30,891] - log.py] - DEBUG: 接口请求的地址: http://192.168.122.183:9080/test/tele-marketing-platform/v1/mark/people/list
+[2023-04-13 11:42:30,892] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 11:43:21,667] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:43:21,668] - log.py] - DEBUG: 接口请求的地址: http://192.168.122.183:9080/test/tele-marketing-platform/v1/mark/people/list
+[2023-04-13 11:43:21,668] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 11:45:14,109] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:45:14,109] - log.py] - DEBUG: 接口请求的地址: http://192.168.122.183:9080/test/tele-marketing-platform/v1/mark/people/list
+[2023-04-13 11:45:14,109] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 11:46:20,997] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:46:20,998] - log.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/loan/queryAvailableProduct
+[2023-04-13 11:46:20,998] - log.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-13 11:47:21,229] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:47:21,229] - log.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/loan/queryAvailableProduct
+[2023-04-13 11:47:21,230] - log.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-13 11:49:53,762] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:49:53,762] - log.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/loan/queryAvailableProduct
+[2023-04-13 11:49:53,762] - log.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-13 11:52:51,854] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:52:51,854] - log.py] - DEBUG: 接口请求的地址: /hc/app/loan/queryAvailableProduct
+[2023-04-13 11:52:51,854] - log.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-13 11:53:13,317] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 11:53:13,318] - log.py] - DEBUG: 接口请求的地址: /hc/app/loan/queryAvailableProduct
+[2023-04-13 11:53:13,318] - log.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-13 12:00:19,086] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:00:19,087] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:00:19,087] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 12:01:47,188] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:01:47,189] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:01:47,189] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 12:05:19,142] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:05:19,142] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:05:19,143] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 12:08:49,980] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,047] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,048] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,050] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,052] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,052] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:08:50,053] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:08:50,054] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 12:08:50,065] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,066] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,067] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:08:50,067] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:08:50,068] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": "",
+  "followStartTime": "",
+  "followEndTime": "",
+  "intoCaseStartTime": "",
+  "intoCaseEndTime": "",
+  "allocateStartTime": "",
+  "allocateEndTime": "",
+  "nextFollowStartTime": "",
+  "nextFollowEndTime": ""
+}
+[2023-04-13 12:08:50,079] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,080] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,080] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:08:50,080] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:08:50,081] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "mobile": "639565118500",
+  "appFrom": null
+}
+[2023-04-13 12:08:50,095] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,096] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,100] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,101] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,102] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:08:50,102] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:08:50,102] - log.py] - DEBUG: 接口请求的参数: {
+  "assigneeId": 199,
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": ""
+}
+[2023-04-13 12:08:50,113] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,114] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,114] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:08:50,115] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:08:50,115] - log.py] - DEBUG: 接口请求的参数: {
+  "finishStartTime": "2023-03-08 00:00:00",
+  "finishEndTime": "2023-04-07 23:59:59",
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 12:08:50,125] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,126] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,129] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,130] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,133] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,134] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,134] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:08:50,135] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:08:50,136] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "creditTimeStart": "2023-03-08 00:00:00",
+  "creditTimeEnd": "2023-04-07 23:59:59",
+  "typeList": null,
+  "assigneeGroupId": null
+}
+[2023-04-13 12:08:50,146] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,147] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,148] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:08:50,148] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:08:50,149] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 12:08:50,159] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,160] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,161] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:08:50,161] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:08:50,161] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 12:08:50,176] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,177] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,179] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:08:50,179] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:08:50,179] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 12:08:50,192] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:08:50,193] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 12:08:50,194] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:08:50,195] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 12:08:50,195] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 12:08:50,207] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 12:12:03,815] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:12:03,816] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:12:03,816] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 12:12:17,790] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:12:17,790] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:12:17,790] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 12:12:37,034] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:12:37,035] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:12:37,035] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 12:18:22,598] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:18:22,598] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:18:22,599] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 12:19:08,913] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:19:08,914] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:19:08,915] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 12:20:48,115] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:20:48,115] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:20:48,115] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 12:21:05,445] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:21:05,445] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:21:05,445] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 12:28:46,256] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:28:46,257] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:28:46,257] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 12:29:56,019] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:29:56,019] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:29:56,019] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 12:31:10,438] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:31:10,439] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:31:10,439] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 12:31:38,075] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 12:31:38,075] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 12:31:38,076] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 15:43:27,524] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 15:43:27,525] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 15:43:27,525] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 15:43:43,244] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 15:43:43,245] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 15:43:43,245] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 15:48:05,920] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 15:48:05,920] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 15:48:05,921] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 16:04:51,599] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:04:51,599] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:04:51,600] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 16:07:37,551] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 16:07:37,551] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/case/loan/history/list?mobile=639565118500
+[2023-04-13 16:07:37,551] - log.py] - DEBUG: 接口请求的参数: {}
+[2023-04-13 16:44:18,252] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:18,253] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:18,253] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:18,254] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 16:44:18,465] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:18,467] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:18,468] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:18,468] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:18,469] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": "",
+  "followStartTime": "",
+  "followEndTime": "",
+  "intoCaseStartTime": "",
+  "intoCaseEndTime": "",
+  "allocateStartTime": "",
+  "allocateEndTime": "",
+  "nextFollowStartTime": "",
+  "nextFollowEndTime": ""
+}
+[2023-04-13 16:44:18,572] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:18,576] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:18,579] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:18,580] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:18,580] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "mobile": "639565118500",
+  "appFrom": null
+}
+[2023-04-13 16:44:18,673] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:18,674] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:18,675] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 16:44:18,676] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:18,676] - log.py] - DEBUG: 接口请求的参数: {
+  "mobile": "639565118500"
+}
+[2023-04-13 16:44:18,694] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:18,695] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:18,696] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:18,697] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:18,697] - log.py] - DEBUG: 接口请求的参数: {
+  "assigneeId": 199,
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": ""
+}
+[2023-04-13 16:44:18,804] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:18,808] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:18,811] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:18,812] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:18,813] - log.py] - DEBUG: 接口请求的参数: {
+  "finishStartTime": "2023-03-08 00:00:00",
+  "finishEndTime": "2023-04-07 23:59:59",
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:44:18,933] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:18,937] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:18,940] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:18,941] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:18,942] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:44:19,049] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:19,054] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:19,057] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:19,058] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:19,059] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:44:19,165] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:19,169] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:19,171] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:19,172] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:19,173] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "creditTimeStart": "2023-03-08 00:00:00",
+  "creditTimeEnd": "2023-04-07 23:59:59",
+  "typeList": null,
+  "assigneeGroupId": null
+}
+[2023-04-13 16:44:19,273] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:19,276] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:19,278] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:19,279] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:19,279] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:44:19,380] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:19,382] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:19,383] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:19,383] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:19,384] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:44:19,481] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:19,482] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:19,483] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:19,483] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:44:19,484] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:44:19,607] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:44:19,609] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:44:19,609] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:44:19,610] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 16:44:19,610] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:44:19,723] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:33,766] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:33,767] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:33,767] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:33,768] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 16:46:33,946] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:33,947] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:33,948] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:33,949] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:33,949] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": "",
+  "followStartTime": "",
+  "followEndTime": "",
+  "intoCaseStartTime": "",
+  "intoCaseEndTime": "",
+  "allocateStartTime": "",
+  "allocateEndTime": "",
+  "nextFollowStartTime": "",
+  "nextFollowEndTime": ""
+}
+[2023-04-13 16:46:34,045] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:34,046] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:34,047] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:34,048] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:34,048] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "mobile": "639565118500",
+  "appFrom": null
+}
+[2023-04-13 16:46:34,156] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:34,157] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:34,158] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 16:46:34,158] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:34,159] - log.py] - DEBUG: 接口请求的参数: {
+  "mobile": "639565118500"
+}
+[2023-04-13 16:46:34,176] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:34,177] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:34,178] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:34,179] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:34,179] - log.py] - DEBUG: 接口请求的参数: {
+  "assigneeId": 199,
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": ""
+}
+[2023-04-13 16:46:34,514] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:34,516] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:34,517] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:34,518] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:34,518] - log.py] - DEBUG: 接口请求的参数: {
+  "finishStartTime": "2023-03-08 00:00:00",
+  "finishEndTime": "2023-04-07 23:59:59",
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:46:34,623] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:34,628] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:34,630] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:34,632] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:34,633] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:46:34,732] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:34,735] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:34,737] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:34,738] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:34,739] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:46:34,836] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:34,838] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:34,840] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:34,840] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:34,841] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "creditTimeStart": "2023-03-08 00:00:00",
+  "creditTimeEnd": "2023-04-07 23:59:59",
+  "typeList": null,
+  "assigneeGroupId": null
+}
+[2023-04-13 16:46:34,956] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:34,959] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:34,961] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:34,962] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:34,963] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:46:35,053] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:35,054] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:35,055] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:35,055] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:35,056] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:46:35,149] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:35,151] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:35,153] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:35,154] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:46:35,154] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:46:35,258] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:46:35,260] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:46:35,260] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:46:35,261] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 16:46:35,261] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:46:35,357] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:27,580] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:27,581] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:27,582] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:27,582] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 16:47:27,755] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:27,757] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:27,758] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:27,758] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:27,759] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": "",
+  "followStartTime": "",
+  "followEndTime": "",
+  "intoCaseStartTime": "",
+  "intoCaseEndTime": "",
+  "allocateStartTime": "",
+  "allocateEndTime": "",
+  "nextFollowStartTime": "",
+  "nextFollowEndTime": ""
+}
+[2023-04-13 16:47:27,868] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:27,870] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:27,872] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:27,872] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:27,873] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "mobile": "639565118500",
+  "appFrom": null
+}
+[2023-04-13 16:47:27,968] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:27,969] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:27,970] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 16:47:27,970] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:27,971] - log.py] - DEBUG: 接口请求的参数: {
+  "mobile": "639565118500"
+}
+[2023-04-13 16:47:27,985] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:27,986] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:27,987] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:27,987] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:27,988] - log.py] - DEBUG: 接口请求的参数: {
+  "assigneeId": 199,
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": ""
+}
+[2023-04-13 16:47:28,083] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:28,084] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:28,085] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:28,086] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:28,086] - log.py] - DEBUG: 接口请求的参数: {
+  "finishStartTime": "2023-03-08 00:00:00",
+  "finishEndTime": "2023-04-07 23:59:59",
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:47:28,175] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:28,176] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:28,177] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:28,178] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:28,178] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:47:28,281] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:28,285] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:28,287] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:28,288] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:28,289] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:47:28,395] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:28,399] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:28,401] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:28,402] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:28,402] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "creditTimeStart": "2023-03-08 00:00:00",
+  "creditTimeEnd": "2023-04-07 23:59:59",
+  "typeList": null,
+  "assigneeGroupId": null
+}
+[2023-04-13 16:47:28,503] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:28,505] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:28,506] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:28,506] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:28,507] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:47:28,605] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:28,609] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:28,612] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:28,613] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:28,614] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:47:28,722] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:28,723] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:28,724] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:28,725] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:47:28,725] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:47:28,824] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:47:28,826] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:47:28,826] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:47:28,827] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 16:47:28,827] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:47:28,921] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:47,141] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:47,142] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:47,143] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:47,143] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 16:48:47,511] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:47,512] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:47,513] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:47,513] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:47,514] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": "",
+  "followStartTime": "",
+  "followEndTime": "",
+  "intoCaseStartTime": "",
+  "intoCaseEndTime": "",
+  "allocateStartTime": "",
+  "allocateEndTime": "",
+  "nextFollowStartTime": "",
+  "nextFollowEndTime": ""
+}
+[2023-04-13 16:48:47,619] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:47,621] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:47,622] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:47,622] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:47,623] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "mobile": "639565118500",
+  "appFrom": null
+}
+[2023-04-13 16:48:47,722] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:47,723] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:47,724] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 16:48:47,725] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:47,725] - log.py] - DEBUG: 接口请求的参数: {
+  "mobile": "639565118500"
+}
+[2023-04-13 16:48:47,738] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:47,739] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:47,740] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:47,741] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:47,741] - log.py] - DEBUG: 接口请求的参数: {
+  "assigneeId": 199,
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": ""
+}
+[2023-04-13 16:48:47,840] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:47,842] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:47,843] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:47,843] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:47,843] - log.py] - DEBUG: 接口请求的参数: {
+  "finishStartTime": "2023-03-08 00:00:00",
+  "finishEndTime": "2023-04-07 23:59:59",
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:48:47,950] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:47,953] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:47,956] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:47,957] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:47,958] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:48:48,064] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:48,068] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:48,070] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:48,071] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:48,072] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:48:48,413] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:48,415] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:48,416] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:48,416] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:48,417] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "creditTimeStart": "2023-03-08 00:00:00",
+  "creditTimeEnd": "2023-04-07 23:59:59",
+  "typeList": null,
+  "assigneeGroupId": null
+}
+[2023-04-13 16:48:48,517] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:48,518] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:48,519] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:48,520] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:48,520] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:48:48,619] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:48,621] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:48,621] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:48,622] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:48,622] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:48:48,728] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:48,731] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:48,733] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:48,734] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:48:48,735] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:48:48,838] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:48:48,840] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:48:48,841] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:48:48,842] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 16:48:48,843] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:48:48,937] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:49:16,124] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:49:16,126] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:49:16,126] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:49:16,126] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 16:49:16,286] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:50:03,940] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:50:08,227] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:50:08,807] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:50:08,808] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:50:08,808] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:50:08,808] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 16:50:08,971] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:51:15,271] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:51:26,562] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:51:26,563] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:51:26,564] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 16:52:35,683] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:52:36,290] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:52:36,291] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:52:36,291] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:52:36,292] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 16:52:36,471] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:53:04,649] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:53:04,651] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:53:04,651] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:53:04,651] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 16:53:04,740] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:16,832] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:16,833] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:16,834] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:16,834] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 16:58:16,923] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.207.16813762957650021"
+}
+[2023-04-13 16:58:16,928] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:28,501] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:28,502] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:28,502] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:28,502] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 16:58:28,597] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.208.16813763074310027"
+}
+[2023-04-13 16:58:28,685] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:28,687] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:28,688] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:28,688] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:28,688] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": "",
+  "followStartTime": "",
+  "followEndTime": "",
+  "intoCaseStartTime": "",
+  "intoCaseEndTime": "",
+  "allocateStartTime": "",
+  "allocateEndTime": "",
+  "nextFollowStartTime": "",
+  "nextFollowEndTime": ""
+}
+[2023-04-13 16:58:28,786] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.209.16813763076170023"
+}
+[2023-04-13 16:58:28,814] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:28,817] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:28,818] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:28,819] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:28,819] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "mobile": "639565118500",
+  "appFrom": null
+}
+[2023-04-13 16:58:28,905] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.210.16813763077470025"
+}
+[2023-04-13 16:58:28,912] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:28,915] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:28,917] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 16:58:28,918] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:28,918] - log.py] - DEBUG: 接口请求的参数: {
+  "mobile": "639565118500"
+}
+[2023-04-13 16:58:28,930] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500,
+  "msg": "internal error",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.211.16813763078470027"
+}
+[2023-04-13 16:58:28,936] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:28,938] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:28,940] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:28,940] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:28,941] - log.py] - DEBUG: 接口请求的参数: {
+  "assigneeId": 199,
+  "page": 1,
+  "pageSize": 10,
+  "country": "",
+  "caseState": ""
+}
+[2023-04-13 16:58:29,036] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.212.16813763078680019"
+}
+[2023-04-13 16:58:29,053] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:29,057] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:29,059] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:29,060] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:29,061] - log.py] - DEBUG: 接口请求的参数: {
+  "finishStartTime": "2023-03-08 00:00:00",
+  "finishEndTime": "2023-04-07 23:59:59",
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:58:29,156] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.203.16813763079900023"
+}
+[2023-04-13 16:58:29,172] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:29,175] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:29,177] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:29,178] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:29,179] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:58:29,268] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.204.16813763081070019"
+}
+[2023-04-13 16:58:29,285] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:29,288] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:29,291] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:29,292] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:29,292] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:58:29,383] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.205.16813763082220025"
+}
+[2023-04-13 16:58:29,387] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:29,388] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:29,389] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:29,390] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:29,390] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10,
+  "creditTimeStart": "2023-03-08 00:00:00",
+  "creditTimeEnd": "2023-04-07 23:59:59",
+  "typeList": null,
+  "assigneeGroupId": null
+}
+[2023-04-13 16:58:29,480] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.206.16813763083160023"
+}
+[2023-04-13 16:58:29,492] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:29,493] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:29,494] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:29,495] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:29,495] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:58:29,585] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.207.16813763084230023"
+}
+[2023-04-13 16:58:29,603] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:29,607] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:29,609] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:29,610] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:29,611] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:58:29,702] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.208.16813763085410029"
+}
+[2023-04-13 16:58:29,720] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:29,723] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:29,726] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:29,727] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:29,728] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:58:29,815] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.209.16813763086550025"
+}
+[2023-04-13 16:58:29,834] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:29,838] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:29,841] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:29,842] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 16:58:29,842] - log.py] - DEBUG: 接口请求的参数: {
+  "page": 1,
+  "pageSize": 10
+}
+[2023-04-13 16:58:29,929] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.210.16813763087730027"
+}
+[2023-04-13 16:58:29,934] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 16:58:53,098] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 16:58:53,099] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 16:58:53,099] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 16:58:53,099] - log.py] - DEBUG: 接口请求的参数: {
+  "intoCaseBeginTime": "2023-03-14 00:00:00",
+  "intoCaseEndTime": "2023-04-13 23:59:59",
+  "page": 1,
+  "pageSize": 10,
+  "country": ""
+}
+[2023-04-13 16:58:53,191] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500400,
+  "msg": "The parameter validation failed",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.211.16813763320280029"
+}
+[2023-04-13 16:58:53,260] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:00:23,461] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:00:23,462] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:00:23,463] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:00:23,463] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 17:00:23,750] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.207.16813764223930025",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:00:23,752] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:21,195] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:21,197] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:03:21,197] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:03:21,197] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 17:03:21,487] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.210.16813766001230029",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:03:21,488] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:21,490] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:21,490] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:03:21,491] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:03:21,491] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"country\": \"\", \"caseState\": \"\", \"followStartTime\": \"\", \"followEndTime\": \"\", \"intoCaseStartTime\": \"\", \"intoCaseEndTime\": \"\", \"allocateStartTime\": \"\", \"allocateEndTime\": \"\", \"nextFollowStartTime\": \"\", \"nextFollowEndTime\": \"\"}"
+[2023-04-13 17:03:21,625] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.211.16813766004150031",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:03:21,631] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:21,638] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:21,640] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:03:21,640] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:03:21,641] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"mobile\": \"639565118500\", \"appFrom\": null}"
+[2023-04-13 17:03:21,768] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.212.16813766005640021",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:03:21,771] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:21,772] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:21,773] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 17:03:21,774] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:03:21,774] - log.py] - DEBUG: 接口请求的参数: "{\"mobile\": \"639565118500\"}"
+[2023-04-13 17:03:21,783] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500,
+  "msg": "internal error",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.203.16813766006970025"
+}
+[2023-04-13 17:03:21,862] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:21,864] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:21,873] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:21,875] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:21,876] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:03:21,876] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:03:21,876] - log.py] - DEBUG: 接口请求的参数: "{\"finishStartTime\": \"2023-03-08 00:00:00\", \"finishEndTime\": \"2023-04-07 23:59:59\", \"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:03:21,996] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.204.16813766008000021",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:03:21,999] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:22,002] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:22,004] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:03:22,005] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:03:22,006] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:03:22,128] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.205.16813766009290027",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:03:22,129] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:22,130] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:22,131] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:03:22,132] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:03:22,132] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:03:22,245] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.206.16813766010560027",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:03:22,249] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:22,254] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:22,256] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:03:22,256] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:03:22,256] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"creditTimeStart\": \"2023-03-08 00:00:00\", \"creditTimeEnd\": \"2023-04-07 23:59:59\", \"typeList\": null, \"assigneeGroupId\": null}"
+[2023-04-13 17:03:22,379] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.207.16813766011790027",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:03:22,381] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:22,382] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:22,383] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:03:22,384] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:03:22,384] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:03:22,516] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.208.16813766013090031",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:03:22,522] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:22,524] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:22,525] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:03:22,525] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:03:22,526] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:03:22,653] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.209.16813766014490029",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:03:22,657] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:22,661] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:22,665] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:03:22,666] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:03:22,667] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:03:23,037] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.210.16813766015930031",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:03:23,038] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:03:23,040] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:03:23,041] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:03:23,042] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 17:03:23,042] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:03:24,025] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 6,
+    "data": [
+      {
+        "id": "63bb82ad9500a3192b81cf99",
+        "country": "PHL",
+        "name": "325346",
+        "code": "04c71a7be58c4c8cb95dedc8b13d0ace",
+        "mode": {
+          "mode": "fix",
+          "duration": "0"
+        },
+        "enable": true,
+        "latestExecTime": "2023-01-11 17:57:13",
+        "createTime": "2023-01-09 10:57:49",
+        "updateTime": "2023-01-09 10:57:49",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "6384251fc2e6c75b5900cd7b",
+        "country": "PHL",
+        "name": "\u903e\u671f\u4e09\u5929-001",
+        "code": "9cf731ed329b4ae1b08a67988ccad21c",
+        "mode": {
+          "mode": "fix",
+          "duration": "10"
+        },
+        "enable": true,
+        "latestExecTime": "2022-11-29 12:02:43",
+        "createTime": "2022-11-28 11:03:59",
+        "updateTime": "2022-11-28 11:03:59",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "6381c7c48fe7380acd6bc3bd",
+        "country": "PHL",
+        "name": "\u5355\u4e2a\u5708\u4eba",
+        "code": "4d7cc5379d254babaf0383d0e7929430",
+        "mode": {
+          "mode": "fix",
+          "duration": "10"
+        },
+        "enable": true,
+        "latestExecTime": "2022-11-28 11:01:07",
+        "createTime": "2022-11-26 16:01:08",
+        "updateTime": "2022-11-26 16:01:08",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637dc0d7dc213a5457aaecd6",
+        "country": "PHL",
+        "name": "12344444444",
+        "code": "569f765c43a54f93ba56c6784d6e4caa",
+        "mode": {
+          "mode": "fix",
+          "duration": "9"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-23 14:44:25",
+        "createTime": "2022-11-23 14:42:30",
+        "updateTime": "2022-11-23 14:42:30",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637dbbb1b7765a5b0e93e28d",
+        "country": "PHL",
+        "name": "\u5708\u4eba\u6848\u4ef6\u6253\u6807\u7b7e",
+        "code": "174479eab21f444a8cb1c594469057c5",
+        "mode": {
+          "mode": "fix",
+          "duration": "15"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-26 15:30:30",
+        "createTime": "2022-11-23 14:20:33",
+        "updateTime": "2022-11-23 14:20:33",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637d882470a23d08f4b6c71a",
+        "country": "PHL",
+        "name": "dsaf",
+        "code": "b7877a679da14728b7f0ca96f41fcbd6",
+        "mode": {
+          "mode": "fix",
+          "duration": "23"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-23 14:40:22",
+        "createTime": "2022-11-23 10:40:36",
+        "updateTime": "2022-11-23 10:40:36",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      }
+    ]
+  },
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.211.16813766019660033"
+}
+[2023-04-13 17:03:24,034] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:07:01,464] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:07:01,465] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:07:01,465] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:07:01,466] - log.py] - DEBUG: 接口请求的参数: "{\"assigneeId\": 199, \"page\": 1, \"pageSize\": 10, \"country\": \"\", \"caseState\": \"\"}"
+[2023-04-13 17:07:01,810] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.208.16813768203870033",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:07:01,813] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:00,523] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:00,593] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:00,594] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:00,596] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:00,597] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:00,598] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:00,598] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:00,599] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 17:08:01,386] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.209.16813768795190031",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:01,388] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:01,389] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:01,389] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:01,390] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:01,390] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"country\": \"\", \"caseState\": \"\", \"followStartTime\": \"\", \"followEndTime\": \"\", \"intoCaseStartTime\": \"\", \"intoCaseEndTime\": \"\", \"allocateStartTime\": \"\", \"allocateEndTime\": \"\", \"nextFollowStartTime\": \"\", \"nextFollowEndTime\": \"\"}"
+[2023-04-13 17:08:01,999] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.211.16813768803090035",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:02,000] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:02,002] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:02,003] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:02,003] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:02,004] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"mobile\": \"639565118500\", \"appFrom\": null}"
+[2023-04-13 17:08:02,142] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.212.16813768809230025",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:02,144] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:02,148] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:02,150] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 17:08:02,152] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:02,153] - log.py] - DEBUG: 接口请求的参数: "{\"mobile\": \"639565118500\"}"
+[2023-04-13 17:08:02,168] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500,
+  "msg": "internal error",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.203.16813768810750027"
+}
+[2023-04-13 17:08:02,177] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:02,179] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:02,180] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:02,180] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:02,181] - log.py] - DEBUG: 接口请求的参数: "{\"assigneeId\": 199, \"page\": 1, \"pageSize\": 10, \"country\": \"\", \"caseState\": \"\"}"
+[2023-04-13 17:08:02,305] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.204.16813768811000023",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:02,308] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:02,312] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:02,316] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:02,318] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:02,319] - log.py] - DEBUG: 接口请求的参数: "{\"finishStartTime\": \"2023-03-08 00:00:00\", \"finishEndTime\": \"2023-04-07 23:59:59\", \"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:02,449] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.205.16813768812400029",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:02,452] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:02,456] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:02,459] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:02,461] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:02,463] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:02,587] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.206.16813768813830029",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:02,587] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:02,589] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:02,590] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:02,590] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:02,591] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:02,714] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.207.16813768815100031",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:02,717] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:02,722] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:02,725] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:02,727] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:02,728] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"creditTimeStart\": \"2023-03-08 00:00:00\", \"creditTimeEnd\": \"2023-04-07 23:59:59\", \"typeList\": null, \"assigneeGroupId\": null}"
+[2023-04-13 17:08:02,852] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.208.16813768816500035",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:02,853] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:02,854] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:02,855] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:02,855] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:02,856] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:03,211] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.210.16813768817750035",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:03,213] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:03,214] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:03,214] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:03,215] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:03,215] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:03,341] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.209.16813768821320033",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:03,344] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:03,348] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:03,351] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:03,353] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:03,355] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:03,481] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.211.16813768822770037",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:03,482] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:03,484] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:03,484] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:03,485] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 17:08:03,485] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:03,614] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 6,
+    "data": [
+      {
+        "id": "63bb82ad9500a3192b81cf99",
+        "country": "PHL",
+        "name": "325346",
+        "code": "04c71a7be58c4c8cb95dedc8b13d0ace",
+        "mode": {
+          "mode": "fix",
+          "duration": "0"
+        },
+        "enable": true,
+        "latestExecTime": "2023-01-11 17:57:13",
+        "createTime": "2023-01-09 10:57:49",
+        "updateTime": "2023-01-09 10:57:49",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "6384251fc2e6c75b5900cd7b",
+        "country": "PHL",
+        "name": "\u903e\u671f\u4e09\u5929-001",
+        "code": "9cf731ed329b4ae1b08a67988ccad21c",
+        "mode": {
+          "mode": "fix",
+          "duration": "10"
+        },
+        "enable": true,
+        "latestExecTime": "2022-11-29 12:02:43",
+        "createTime": "2022-11-28 11:03:59",
+        "updateTime": "2022-11-28 11:03:59",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "6381c7c48fe7380acd6bc3bd",
+        "country": "PHL",
+        "name": "\u5355\u4e2a\u5708\u4eba",
+        "code": "4d7cc5379d254babaf0383d0e7929430",
+        "mode": {
+          "mode": "fix",
+          "duration": "10"
+        },
+        "enable": true,
+        "latestExecTime": "2022-11-28 11:01:07",
+        "createTime": "2022-11-26 16:01:08",
+        "updateTime": "2022-11-26 16:01:08",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637dc0d7dc213a5457aaecd6",
+        "country": "PHL",
+        "name": "12344444444",
+        "code": "569f765c43a54f93ba56c6784d6e4caa",
+        "mode": {
+          "mode": "fix",
+          "duration": "9"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-23 14:44:25",
+        "createTime": "2022-11-23 14:42:30",
+        "updateTime": "2022-11-23 14:42:30",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637dbbb1b7765a5b0e93e28d",
+        "country": "PHL",
+        "name": "\u5708\u4eba\u6848\u4ef6\u6253\u6807\u7b7e",
+        "code": "174479eab21f444a8cb1c594469057c5",
+        "mode": {
+          "mode": "fix",
+          "duration": "15"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-26 15:30:30",
+        "createTime": "2022-11-23 14:20:33",
+        "updateTime": "2022-11-23 14:20:33",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637d882470a23d08f4b6c71a",
+        "country": "PHL",
+        "name": "dsaf",
+        "code": "b7877a679da14728b7f0ca96f41fcbd6",
+        "mode": {
+          "mode": "fix",
+          "duration": "23"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-23 14:40:22",
+        "createTime": "2022-11-23 10:40:36",
+        "updateTime": "2022-11-23 10:40:36",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      }
+    ]
+  },
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.212.16813768824030027"
+}
+[2023-04-13 17:08:03,615] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:30,538] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:30,539] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:30,540] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:30,541] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 17:08:30,774] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.203.16813769094600029",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:30,782] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:30,788] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:30,792] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:30,793] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:30,795] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"country\": \"\", \"caseState\": \"\", \"followStartTime\": \"\", \"followEndTime\": \"\", \"intoCaseStartTime\": \"\", \"intoCaseEndTime\": \"\", \"allocateStartTime\": \"\", \"allocateEndTime\": \"\", \"nextFollowStartTime\": \"\", \"nextFollowEndTime\": \"\"}"
+[2023-04-13 17:08:30,921] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.204.16813769097150025",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:30,927] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:30,933] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:30,937] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:30,938] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:30,940] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"mobile\": \"639565118500\", \"appFrom\": null}"
+[2023-04-13 17:08:31,311] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.205.16813769098580031",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:31,314] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:31,316] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:31,317] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 17:08:31,317] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:31,318] - log.py] - DEBUG: 接口请求的参数: "{\"mobile\": \"639565118500\"}"
+[2023-04-13 17:08:31,329] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500,
+  "msg": "internal error",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.206.16813769102350031"
+}
+[2023-04-13 17:08:31,400] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:31,402] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:31,403] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:31,403] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:31,404] - log.py] - DEBUG: 接口请求的参数: "{\"assigneeId\": 199, \"page\": 1, \"pageSize\": 10, \"country\": \"\", \"caseState\": \"\"}"
+[2023-04-13 17:08:31,535] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.207.16813769103220033",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:31,540] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:31,546] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:31,551] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:31,552] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:31,554] - log.py] - DEBUG: 接口请求的参数: "{\"finishStartTime\": \"2023-03-08 00:00:00\", \"finishEndTime\": \"2023-04-07 23:59:59\", \"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:31,679] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.208.16813769104740037",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:31,684] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:31,690] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:31,694] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:31,696] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:31,697] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:31,818] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.210.16813769106160037",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:31,820] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:31,821] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:31,823] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:31,823] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:31,823] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:31,952] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.209.16813769107410035",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:31,954] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:31,957] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:31,958] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:31,959] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:31,960] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"creditTimeStart\": \"2023-03-08 00:00:00\", \"creditTimeEnd\": \"2023-04-07 23:59:59\", \"typeList\": null, \"assigneeGroupId\": null}"
+[2023-04-13 17:08:32,078] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.211.16813769108780039",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:32,080] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:32,081] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:32,082] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:32,083] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:32,083] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:32,195] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.212.16813769110010029",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:32,196] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:32,198] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:32,199] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:32,200] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:32,200] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:32,319] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.203.16813769111170031",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:32,324] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:32,332] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:32,336] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:32,338] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:32,339] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:32,484] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.204.16813769112600027",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:32,485] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:32,487] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:32,488] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:32,488] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 17:08:32,489] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:32,626] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 6,
+    "data": [
+      {
+        "id": "63bb82ad9500a3192b81cf99",
+        "country": "PHL",
+        "name": "325346",
+        "code": "04c71a7be58c4c8cb95dedc8b13d0ace",
+        "mode": {
+          "mode": "fix",
+          "duration": "0"
+        },
+        "enable": true,
+        "latestExecTime": "2023-01-11 17:57:13",
+        "createTime": "2023-01-09 10:57:49",
+        "updateTime": "2023-01-09 10:57:49",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "6384251fc2e6c75b5900cd7b",
+        "country": "PHL",
+        "name": "\u903e\u671f\u4e09\u5929-001",
+        "code": "9cf731ed329b4ae1b08a67988ccad21c",
+        "mode": {
+          "mode": "fix",
+          "duration": "10"
+        },
+        "enable": true,
+        "latestExecTime": "2022-11-29 12:02:43",
+        "createTime": "2022-11-28 11:03:59",
+        "updateTime": "2022-11-28 11:03:59",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "6381c7c48fe7380acd6bc3bd",
+        "country": "PHL",
+        "name": "\u5355\u4e2a\u5708\u4eba",
+        "code": "4d7cc5379d254babaf0383d0e7929430",
+        "mode": {
+          "mode": "fix",
+          "duration": "10"
+        },
+        "enable": true,
+        "latestExecTime": "2022-11-28 11:01:07",
+        "createTime": "2022-11-26 16:01:08",
+        "updateTime": "2022-11-26 16:01:08",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637dc0d7dc213a5457aaecd6",
+        "country": "PHL",
+        "name": "12344444444",
+        "code": "569f765c43a54f93ba56c6784d6e4caa",
+        "mode": {
+          "mode": "fix",
+          "duration": "9"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-23 14:44:25",
+        "createTime": "2022-11-23 14:42:30",
+        "updateTime": "2022-11-23 14:42:30",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637dbbb1b7765a5b0e93e28d",
+        "country": "PHL",
+        "name": "\u5708\u4eba\u6848\u4ef6\u6253\u6807\u7b7e",
+        "code": "174479eab21f444a8cb1c594469057c5",
+        "mode": {
+          "mode": "fix",
+          "duration": "15"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-26 15:30:30",
+        "createTime": "2022-11-23 14:20:33",
+        "updateTime": "2022-11-23 14:20:33",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637d882470a23d08f4b6c71a",
+        "country": "PHL",
+        "name": "dsaf",
+        "code": "b7877a679da14728b7f0ca96f41fcbd6",
+        "mode": {
+          "mode": "fix",
+          "duration": "23"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-23 14:40:22",
+        "createTime": "2022-11-23 10:40:36",
+        "updateTime": "2022-11-23 10:40:36",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      }
+    ]
+  },
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.205.16813769114080033"
+}
+[2023-04-13 17:08:32,642] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:48,744] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:48,809] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:48,810] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:48,813] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:48,814] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:48,815] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:48,815] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:48,815] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 17:08:48,946] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.206.16813769277340033",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:48,948] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:48,949] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:48,950] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:48,950] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:48,951] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"country\": \"\", \"caseState\": \"\", \"followStartTime\": \"\", \"followEndTime\": \"\", \"intoCaseStartTime\": \"\", \"intoCaseEndTime\": \"\", \"allocateStartTime\": \"\", \"allocateEndTime\": \"\", \"nextFollowStartTime\": \"\", \"nextFollowEndTime\": \"\"}"
+[2023-04-13 17:08:49,078] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.207.16813769278690035",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:49,082] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:49,086] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:49,088] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:49,091] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:49,092] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"mobile\": \"639565118500\", \"appFrom\": null}"
+[2023-04-13 17:08:49,233] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.208.16813769280120039",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:49,234] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:49,235] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:49,236] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 17:08:49,236] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:49,237] - log.py] - DEBUG: 接口请求的参数: "{\"mobile\": \"639565118500\"}"
+[2023-04-13 17:08:49,249] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500,
+  "msg": "internal error",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.210.16813769281550039"
+}
+[2023-04-13 17:08:49,254] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:49,255] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:49,255] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:49,256] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:49,256] - log.py] - DEBUG: 接口请求的参数: "{\"assigneeId\": 199, \"page\": 1, \"pageSize\": 10, \"country\": \"\", \"caseState\": \"\"}"
+[2023-04-13 17:08:49,380] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.209.16813769281730037",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:49,383] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:49,387] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:49,389] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:49,391] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:49,392] - log.py] - DEBUG: 接口请求的参数: "{\"finishStartTime\": \"2023-03-08 00:00:00\", \"finishEndTime\": \"2023-04-07 23:59:59\", \"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:49,510] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.211.16813769283120041",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:49,512] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:49,514] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:49,514] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:49,515] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:49,515] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:49,632] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.212.16813769284330031",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:49,633] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:49,634] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:49,635] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:49,635] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:49,636] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:49,764] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.203.16813769285530033",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:49,765] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:49,767] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:49,767] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:49,768] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:49,769] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"creditTimeStart\": \"2023-03-08 00:00:00\", \"creditTimeEnd\": \"2023-04-07 23:59:59\", \"typeList\": null, \"assigneeGroupId\": null}"
+[2023-04-13 17:08:49,895] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.204.16813769286870029",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:49,895] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:49,896] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:49,897] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:49,897] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:49,898] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:50,022] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.205.16813769288160035",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:50,023] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:50,024] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:50,025] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:50,025] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:50,026] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:50,144] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.206.16813769289430035",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:50,146] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:50,148] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:50,150] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:50,152] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:08:50,153] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:50,279] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.207.16813769290760037",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:08:50,282] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:08:50,285] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:08:50,287] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:08:50,289] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 17:08:50,290] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:08:50,410] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 6,
+    "data": [
+      {
+        "id": "63bb82ad9500a3192b81cf99",
+        "country": "PHL",
+        "name": "325346",
+        "code": "04c71a7be58c4c8cb95dedc8b13d0ace",
+        "mode": {
+          "mode": "fix",
+          "duration": "0"
+        },
+        "enable": true,
+        "latestExecTime": "2023-01-11 17:57:13",
+        "createTime": "2023-01-09 10:57:49",
+        "updateTime": "2023-01-09 10:57:49",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "6384251fc2e6c75b5900cd7b",
+        "country": "PHL",
+        "name": "\u903e\u671f\u4e09\u5929-001",
+        "code": "9cf731ed329b4ae1b08a67988ccad21c",
+        "mode": {
+          "mode": "fix",
+          "duration": "10"
+        },
+        "enable": true,
+        "latestExecTime": "2022-11-29 12:02:43",
+        "createTime": "2022-11-28 11:03:59",
+        "updateTime": "2022-11-28 11:03:59",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "6381c7c48fe7380acd6bc3bd",
+        "country": "PHL",
+        "name": "\u5355\u4e2a\u5708\u4eba",
+        "code": "4d7cc5379d254babaf0383d0e7929430",
+        "mode": {
+          "mode": "fix",
+          "duration": "10"
+        },
+        "enable": true,
+        "latestExecTime": "2022-11-28 11:01:07",
+        "createTime": "2022-11-26 16:01:08",
+        "updateTime": "2022-11-26 16:01:08",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637dc0d7dc213a5457aaecd6",
+        "country": "PHL",
+        "name": "12344444444",
+        "code": "569f765c43a54f93ba56c6784d6e4caa",
+        "mode": {
+          "mode": "fix",
+          "duration": "9"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-23 14:44:25",
+        "createTime": "2022-11-23 14:42:30",
+        "updateTime": "2022-11-23 14:42:30",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637dbbb1b7765a5b0e93e28d",
+        "country": "PHL",
+        "name": "\u5708\u4eba\u6848\u4ef6\u6253\u6807\u7b7e",
+        "code": "174479eab21f444a8cb1c594469057c5",
+        "mode": {
+          "mode": "fix",
+          "duration": "15"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-26 15:30:30",
+        "createTime": "2022-11-23 14:20:33",
+        "updateTime": "2022-11-23 14:20:33",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637d882470a23d08f4b6c71a",
+        "country": "PHL",
+        "name": "dsaf",
+        "code": "b7877a679da14728b7f0ca96f41fcbd6",
+        "mode": {
+          "mode": "fix",
+          "duration": "23"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-23 14:40:22",
+        "createTime": "2022-11-23 10:40:36",
+        "updateTime": "2022-11-23 10:40:36",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      }
+    ]
+  },
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.208.16813769292140041"
+}
+[2023-04-13 17:08:50,411] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:33,973] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:33,973] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:33,974] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:33,974] - log.py] - DEBUG: 接口请求的参数: "{\"intoCaseBeginTime\": \"2023-03-14 00:00:00\", \"intoCaseEndTime\": \"2023-04-13 23:59:59\", \"page\": 1, \"pageSize\": 10, \"country\": \"\"}"
+[2023-04-13 17:12:34,236] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.205.16813771528910037",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:12:34,237] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:34,238] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:34,239] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:34,239] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:34,240] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"country\": \"\", \"caseState\": \"\", \"followStartTime\": \"\", \"followEndTime\": \"\", \"intoCaseStartTime\": \"\", \"intoCaseEndTime\": \"\", \"allocateStartTime\": \"\", \"allocateEndTime\": \"\", \"nextFollowStartTime\": \"\", \"nextFollowEndTime\": \"\"}"
+[2023-04-13 17:12:34,372] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.206.16813771531560037",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:12:34,372] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:34,374] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:34,374] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:34,375] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:34,375] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"mobile\": \"639565118500\", \"appFrom\": null}"
+[2023-04-13 17:12:34,506] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.207.16813771532910039",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:12:34,506] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:34,507] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:34,508] - log.py] - DEBUG: 接口请求的方式：GET
+[2023-04-13 17:12:34,508] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:34,509] - log.py] - DEBUG: 接口请求的参数: "{\"mobile\": \"639565118500\"}"
+[2023-04-13 17:12:34,517] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 500,
+  "msg": "internal error",
+  "data": null,
+  "success": false,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.208.16813771534220043"
+}
+[2023-04-13 17:12:34,583] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:34,584] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:34,584] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:34,585] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:34,585] - log.py] - DEBUG: 接口请求的参数: "{\"assigneeId\": 199, \"page\": 1, \"pageSize\": 10, \"country\": \"\", \"caseState\": \"\"}"
+[2023-04-13 17:12:34,711] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.210.16813771534990041",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:12:34,713] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:34,714] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:34,715] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:34,715] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:34,716] - log.py] - DEBUG: 接口请求的参数: "{\"finishStartTime\": \"2023-03-08 00:00:00\", \"finishEndTime\": \"2023-04-07 23:59:59\", \"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:12:34,851] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.209.16813771536290039",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:12:34,853] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:34,854] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:34,855] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:34,855] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:34,856] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:12:34,983] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.211.16813771537690043",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:12:34,985] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:34,987] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:34,989] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:34,990] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:34,991] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:12:35,137] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.212.16813771539090033",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:12:35,141] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:35,145] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:35,148] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:35,150] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:35,152] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10, \"creditTimeStart\": \"2023-03-08 00:00:00\", \"creditTimeEnd\": \"2023-04-07 23:59:59\", \"typeList\": null, \"assigneeGroupId\": null}"
+[2023-04-13 17:12:35,289] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.203.16813771540700037",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:12:35,292] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:35,295] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:35,297] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:35,299] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:35,300] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:12:35,439] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.204.16813771542190033",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:12:35,441] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:35,442] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:35,442] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:35,443] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:35,443] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:12:35,567] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.205.16813771543580039",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:12:35,569] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:35,571] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:35,572] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:35,573] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/loan/case/list
+[2023-04-13 17:12:35,574] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:12:35,701] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.206.16813771544910039",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 0,
+    "data": []
+  }
+}
+[2023-04-13 17:12:35,704] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-13 17:12:35,708] - log.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-13 17:12:35,711] - log.py] - DEBUG: 接口请求的方式：POST
+[2023-04-13 17:12:35,713] - log.py] - DEBUG: 接口请求的地址: /tele-marketing-platform/v1/mark/people/list
+[2023-04-13 17:12:35,716] - log.py] - DEBUG: 接口请求的参数: "{\"page\": 1, \"pageSize\": 10}"
+[2023-04-13 17:12:35,833] - log.py] - DEBUG: 接口响应结果是:{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 6,
+    "data": [
+      {
+        "id": "63bb82ad9500a3192b81cf99",
+        "country": "PHL",
+        "name": "325346",
+        "code": "04c71a7be58c4c8cb95dedc8b13d0ace",
+        "mode": {
+          "mode": "fix",
+          "duration": "0"
+        },
+        "enable": true,
+        "latestExecTime": "2023-01-11 17:57:13",
+        "createTime": "2023-01-09 10:57:49",
+        "updateTime": "2023-01-09 10:57:49",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "6384251fc2e6c75b5900cd7b",
+        "country": "PHL",
+        "name": "\u903e\u671f\u4e09\u5929-001",
+        "code": "9cf731ed329b4ae1b08a67988ccad21c",
+        "mode": {
+          "mode": "fix",
+          "duration": "10"
+        },
+        "enable": true,
+        "latestExecTime": "2022-11-29 12:02:43",
+        "createTime": "2022-11-28 11:03:59",
+        "updateTime": "2022-11-28 11:03:59",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "6381c7c48fe7380acd6bc3bd",
+        "country": "PHL",
+        "name": "\u5355\u4e2a\u5708\u4eba",
+        "code": "4d7cc5379d254babaf0383d0e7929430",
+        "mode": {
+          "mode": "fix",
+          "duration": "10"
+        },
+        "enable": true,
+        "latestExecTime": "2022-11-28 11:01:07",
+        "createTime": "2022-11-26 16:01:08",
+        "updateTime": "2022-11-26 16:01:08",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637dc0d7dc213a5457aaecd6",
+        "country": "PHL",
+        "name": "12344444444",
+        "code": "569f765c43a54f93ba56c6784d6e4caa",
+        "mode": {
+          "mode": "fix",
+          "duration": "9"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-23 14:44:25",
+        "createTime": "2022-11-23 14:42:30",
+        "updateTime": "2022-11-23 14:42:30",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637dbbb1b7765a5b0e93e28d",
+        "country": "PHL",
+        "name": "\u5708\u4eba\u6848\u4ef6\u6253\u6807\u7b7e",
+        "code": "174479eab21f444a8cb1c594469057c5",
+        "mode": {
+          "mode": "fix",
+          "duration": "15"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-26 15:30:30",
+        "createTime": "2022-11-23 14:20:33",
+        "updateTime": "2022-11-23 14:20:33",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      },
+      {
+        "id": "637d882470a23d08f4b6c71a",
+        "country": "PHL",
+        "name": "dsaf",
+        "code": "b7877a679da14728b7f0ca96f41fcbd6",
+        "mode": {
+          "mode": "fix",
+          "duration": "23"
+        },
+        "enable": false,
+        "latestExecTime": "2022-11-23 14:40:22",
+        "createTime": "2022-11-23 10:40:36",
+        "updateTime": "2022-11-23 10:40:36",
+        "creator": 170,
+        "operator": 170,
+        "operatorName": "\u674e\u5927\u54e5",
+        "version": 1
+      }
+    ]
+  },
+  "success": true,
+  "traceId": "949cdb8cf1f4487193e604f5b4d87040.207.16813771546330041"
+}
+[2023-04-13 17:12:35,834] - log.py] - INFO: -----------------------结束执行测试用例-----------------------
